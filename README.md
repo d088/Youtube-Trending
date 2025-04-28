@@ -1,8 +1,9 @@
 ## YouTube Data Analysis & Insights
-#Project Overview
-This project focuses on analyzing YouTube engagement metrics to uncover trends in audience behavior, content performance, and key factors influencing video popularity. The dataset includes over 499 billion views, 184,000 videos, and 38,000 channels, providing a comprehensive look into YouTube’s ecosystem.
+# Project Overview
+This project focuses on analyzing YouTube engagement metrics to uncover trends in audience behavior, content performance, and key factors influencing video popularity. 
+The dataset includes over 499 billion views, 184,000 videos, and 38,000 channels, providing a comprehensive look into YouTube’s ecosystem.
 
-#Key Insights & Findings
+# Key Insights & Findings
 1. Content Performance & Engagement
 Total Views: 499 billion, indicating a vast audience reach.
 
@@ -33,7 +34,7 @@ Videos with the most views provide valuable insights into successful content str
 
 Understanding trending topics and high-engagement formats helps creators optimize their video production.
 
-#Strategic Recommendations
+# Strategic Recommendations
 Based on the analysis, the following strategies can enhance content performance on YouTube:
 ✅ Optimize Posting Times: Schedule uploads during peak engagement hours (06:00 AM and 06:00 PM) for maximum reach.
 ✅ Leverage Trending Topics: Utilize popular keywords and themes like music, entertainment, and viral challenges to increase visibility.
